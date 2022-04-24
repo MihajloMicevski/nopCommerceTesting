@@ -1,0 +1,7 @@
+*** Settings ***
+Library           SeleniumLibrary
+Resource          Common.robot
+Resource          Register.robot
+Resource          ../PageObjects/RegisterPage.robot
+Resource          ../Resources/RegisterTestData.robot
+Resource          ../Resources/TestData.robot

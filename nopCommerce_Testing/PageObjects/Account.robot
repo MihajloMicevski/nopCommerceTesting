@@ -1,0 +1,10 @@
+*** Variables ***
+${NotificationBarSuccess}    //*[@class="bar-notification success"]
+${ConfirmNewPasswordLocator}    //*[@id="ConfirmNewPassword"]
+${InputNewPasswordLocator}    //*[@id="NewPassword"]
+${InputOldPasswordLocator}    //*[@id="OldPassword"]
+${ChangePasswordButtonLocator}    //button[@class="button-1 change-password-button"]
+${ChangePasswordLocator}    //*[@class="change-password inactive"]
+${PasswordLoginLocator}    //*[@id="Password"]
+${MyProductReviewsNoDataLocator}    //*[@class="no-data"]
+${ProductReviewsLocator}    //*[@class="customer-reviews inactive"]
